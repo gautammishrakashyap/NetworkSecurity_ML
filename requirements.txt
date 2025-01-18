@@ -8,4 +8,8 @@ pymongo
 scikit-learn
 dill
 pyaml
--e.
+fastapi
+uvicorn
+
+
+# -e.
